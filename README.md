@@ -4,6 +4,8 @@ Experiment_2
 ## AIM - 
 To check given data types
 
+## Software - VS code
+
 ## Theory
 Data types are fundamental to programming, providing a way to define the type of data that can be stored and manipulated within a program
 
@@ -47,3 +49,6 @@ Prompt the user to enter a value.
 Read the input value.
 Output the size of the variable using the sizeof operator.
 * End
+
+## conclusion: 
+we learned the data types in c plus plus
